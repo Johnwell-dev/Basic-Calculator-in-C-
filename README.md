@@ -27,6 +27,6 @@ It includes language selection (Spanish/English) and allows you to repeat calcul
 
 ```bash
 g++ main.cpp -o calculadora
+```
 
-o simplemente correrlo en VScode, Donde fue Programado.
-or just run it in VScode, where it was programmed.
+## 🔥 O simplemente correrlo en VScode, Donde fue Programado. / or just run it in VScode, where it was programmed.
